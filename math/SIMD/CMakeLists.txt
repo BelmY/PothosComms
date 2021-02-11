@@ -12,6 +12,7 @@ set(SIMDInputs
     ConstArithmetic.cpp
     ConstComparator.cpp
     Gamma.cpp
+    Exp.cpp
     Log.cpp
     Pow.cpp
     Root.cpp
