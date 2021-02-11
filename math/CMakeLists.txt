@@ -58,6 +58,8 @@ POTHOS_MODULE_UTIL(
         Gamma.cpp
         TestBeta.cpp
         TestGamma.cpp
+        ModF.cpp
+        TestModF.cpp
     LIBRARIES ${libraries}
     DESTINATION comms
     ENABLE_DOCS

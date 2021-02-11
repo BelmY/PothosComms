@@ -13,6 +13,7 @@ set(SIMDInputs
     ConstComparator.cpp
     Gamma.cpp
     Log.cpp
+    ModF.cpp
     Pow.cpp
     Root.cpp
     RSqrt.cpp
